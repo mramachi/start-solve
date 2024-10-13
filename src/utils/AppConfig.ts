@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'Sollvia',
+  title: 'Sollvia',
+  description: 'Your next generation AI tool',
   locale: 'en',
 };
